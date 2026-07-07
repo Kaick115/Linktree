@@ -1,5 +1,6 @@
 body{
     background-color: rgb(136, 202, 241);
+  
   }
   #profile {
 height: 70px;
@@ -32,7 +33,6 @@ margin:auto;
 
   }
   .network-icon{   
-  background-image: url("twitterlogo.png");
    
   
   height: 30px;
@@ -43,9 +43,23 @@ margin-top: 10px;
 float: left;
 margin-left: 100px;
   }
+
+  #icontwitter{
+    background-image: url("twitterlogo.png");
+  }
   
+  #iconinstagram{
+    background-image: url("instagram.png");
+  }
+  #iconwhatsapp{
+    background-image: url("whatsapp.png");
+  }
+  #iconfacebook{
+    background-image: url("facebook.png");
+  }
+
   #networkicon-container{
-width: 30%;
+width: 50%;
  margin:auto;
  margin-top: 10px;
 
