@@ -1,6 +1,3 @@
-nome= document.getElementById("username");
-nome.innerText= "Gato sem botas";
-
 json= {"frase": "Carinhar ",
 "link":"https://sl.bing.net/dDiG1hDIcdE"};
 
